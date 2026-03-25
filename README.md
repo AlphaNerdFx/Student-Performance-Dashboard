@@ -1,7 +1,7 @@
 # Student-Performance-Dashboard
 
-<img width="1919" height="1009" alt="Relationship Overview Dashboard" src="https://github.com/user-attachments/assets/3867ce6f-69d6-4304-9c03-bb34d72b7433" />
 <img width="1920" height="1007" alt="Statistical Overview Dashboard" src="https://github.com/user-attachments/assets/8dffb35b-b351-4c14-b4d1-9e28e6fb596e" />
+<img width="1919" height="1009" alt="Relationship Overview Dashboard" src="https://github.com/user-attachments/assets/3867ce6f-69d6-4304-9c03-bb34d72b7433" />
 
 # 📊 Student Performance and Risk Analysis Dashboard (Tableau)
 
